@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Llama2-chat-with-documents
 Simple Chainlit app to have interaction with your documents.
 
@@ -46,3 +47,7 @@ You must have Python 3.9 or later installed. Earlier versions of python may not 
    ```
    chainlit run main.py -w
    ```
+=======
+# langchain
+making easy ai with chatgpt, lama2, LangChain
+>>>>>>> cb8bc71b670befebd2ce880265b762dbe9934d44
